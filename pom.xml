@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>me.julb</groupId>
 	<artifactId>aws-lambda-bootstrap-maven-plugin</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>maven-plugin</packaging>
 
 	<name>Julb.me :: AWS Lambda Bootstrap Maven Plugin</name>
